@@ -1,7 +1,7 @@
 time1 = input("Digite o 1º time: ")
-golt1 =int(input("Gols que time 1 fez: "))
+golt1 =int(input("Gols que 1º time fez: "))
 time2 = input("Digite o 2º time: ")
-golt2 =int(input("Gols que time 2 fez: "))
+golt2 =int(input("Gols que 2º time fez: "))
 
 if golt1 > golt2:
     print(f"O time {time1} ganhou com {golt1} gols.")
